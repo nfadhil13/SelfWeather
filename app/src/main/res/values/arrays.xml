@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_units_options">
+        <item>@string/pref_units_label_metric</item>
+        <item>@string/pref_units_label_imperial</item>
+    </string-array>
+
+    <string-array name="pref_units_values">
+        <item>@string/pref_units_metric</item>
+        <item>@string/pref_units_imperial</item>
+    </string-array>
+
+
+    <string-array name="pref_language_options">
+        <item>@string/pref_language_ar_label</item>
+        <item>@string/pref_language_en_label</item>
+        <item>@string/pref_language_id_label</item>
+        <item>@string/pref_language_jp_label</item>
+        <item>@string/pref_language_kr_label</item>
+    </string-array>
+
+
+    <string-array name="pref_language_value">
+        <item>@string/pref_language_ar</item>
+        <item>@string/pref_language_en</item>
+        <item>@string/pref_language_id</item>
+        <item>@string/pref_language_jp</item>
+        <item>@string/pref_language_kr</item>
+    </string-array>
+
+</resources>

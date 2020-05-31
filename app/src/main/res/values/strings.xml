@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Self Weather</string>
+    <string name="tv_last_update">Last Update</string>
+    <string name="city_default_label">Bandung</string>
+    <string name="default_conter">0/100</string>
+
+
+    <!-- Label for the temperature units preference [CHAR LIMIT=30] -->
+    <string name="pref_units_label">Temperature Units</string>
+
+    <!-- Label for metric option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_units_label_metric">Metric</string>
+
+    <!-- Label for imperial option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_units_label_imperial">Imperial</string>
+
+    <!-- Key name for temperature unit preference in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_units_key" translatable="false">units</string>
+
+    <!-- Value in SharedPreferences for metric temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_units_metric" translatable="false">metric</string>
+
+    <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+    <string name="pref_category_main_label">MAIN SETTING</string>
+    <string name="back_label">back</string>
+    <string name="menu_setting_title">go_setting</string>
+
+
+    <string name="pref_language_id">id</string>
+    <string name="pref_language_id_label">Bahasa Indonesia</string>
+
+    <string name="pref_language_en">en</string>
+    <string name="pref_language_en_label">English</string>
+
+    <string name="pref_language_kr">kr</string>
+    <string name="pref_language_kr_label">한글</string>
+
+    <string name="pref_language_ar">ar</string>
+    <string name="pref_language_ar_label">الْعَرَبِيَّة</string>
+
+    <string name="pref_language_jp">ja</string>
+    <string name="pref_language_jp_label">日本語</string>
+
+    <string name="pref_language_key">language</string>
+    <string name="pref_language_label">Language</string>
+
+</resources>
